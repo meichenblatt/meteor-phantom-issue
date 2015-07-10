@@ -3,7 +3,7 @@ This repository was created to report a bug to meteor
 
 All I did was create a new app, added spiderable and gadicohen:phantomjs. I kept the meteor's defualt code. I'm getting an 
 that they are not connecting. Below is a copy and paste from my command line so you can see the exact steps I took and the 
-error.
+error. My operating system is windows.
 
 C:\Users\meich_000\Documents\GitHub> git clone https://github.com/meichenblatt/meteor-phantom-issue.git
 Cloning into 'meteor-phantom-issue'...
